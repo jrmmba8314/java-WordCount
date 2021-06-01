@@ -1,0 +1,6 @@
+BreedQueue
+CreateDogsQueue
+DogsQueue
+ExceptionQueue
+HighPriorityQueue
+LowPriorityQueue
